@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Linux System Engineering student with **1+ years of experience** building hyprland dotfiles. I help developers **build faster with collaboration tools and automation**.
+I'm a Linux System Engineering student with **1+ years of experience** building hyprland dotfiles.
 
 - Building **hyprland configs**
 - Creating **hyprland with noctalia shell and awww, pywal16** for productivity
