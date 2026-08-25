@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Linux+System-Engineer+%7C+1%2B+Years+Experience;POSIX+Enthusiast+%7C+Building+with+AI+like+Linus;Discord+%40nyxt_system;Automation+Expert+%7C+n8n+Workflows)](https://git.io/typing-svg)
 [![Discord](https://img.shields.io/badge/Discord-nyxt__system-738ADB?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/778995634279153674)
 
-[![Instagram](https://img.shields.io/badge/Instagram-nyxtsystem-f25c7f?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/AyyazZafar)
+[![Instagram](https://img.shields.io/badge/Instagram-nyxtsystem-f25c7f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyxtsystem)
 
 </div>
 
@@ -53,7 +53,6 @@ I'm a Linux System Engineering student with **1+ years of experience** building 
 
 </div>
 
----
 ---
 
 <div align="center">
