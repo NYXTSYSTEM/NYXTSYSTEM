@@ -55,5 +55,3 @@ I'm a Linux System Engineering student with **1+ years of experience** building 
 </div>
 
 ---
-
-<div align="center"></div>
