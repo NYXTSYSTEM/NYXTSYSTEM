@@ -39,6 +39,7 @@ I'm a Linux System Engineering student with **1+ years of experience** building 
 ![C](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=C&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-148526?style=for-the-badge&logo=shell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-215?style=for-the-badge&logo=python&logoColor=blue)
 
 </div>
 
